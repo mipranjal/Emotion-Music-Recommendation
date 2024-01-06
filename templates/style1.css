@@ -1,0 +1,65 @@
+*{
+    padding:0px;
+    margin: 0px;
+    background-color: rgb(224, 59, 224);
+    background-image: url(music.jpg);
+    background-repeat:initial;
+}
+h1,h2{
+    color: black;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 23px;
+    margin: 6px;
+
+}
+h2{
+    color: yellow;
+    font-size: 40px;
+    font-weight: 300;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: crimson;
+}
+img {
+    padding: 20px;
+    display: inline-block;
+    margin: auto;
+    width: 85%;
+}
+.emotion{
+    width: 50%;
+    float: left;
+    height: 100%;
+    margin: auto;
+    padding-bottom:25px;
+    text-align: center"
+}
+.song{
+    width: 50%;
+    float: left;
+    height: 100%;
+    margin: auto;
+    text-align: center;
+}
+.outer-shadow{
+    padding: 15px;
+    width: 49%;
+    float: left;
+    height: 100%;
+    margin: auto;
+    text-align: center;
+    margin-bottom:15px;
+}
+/*style="margin: 10px;text-align: center;width: 49%;"*/
+.outer-shadow1{
+    padding: 15px;
+    width: 49%;
+    float: left;
+    height: 100%;
+    margin: auto;
+    text-align: center;
+    margin-bottom:15px;
+
+}
